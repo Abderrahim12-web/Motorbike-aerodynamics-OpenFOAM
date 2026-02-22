@@ -1,0 +1,29 @@
+# OpenFOAM processor folders (parallel runs)
+processor*/
+
+# Time directories (simulation results)
+[1-9]*/
+[1-9]*.*
+
+# Post-processing output
+postProcessing/
+
+# Logs
+log.*
+*.log
+
+# Temporary / backup files
+*~
+*.bak
+
+# Mesh generated files
+constant/polyMesh/
+
+# ParaView state files
+*.OpenFOAM
+*.foam
+*.pvsm
+
+# System files (OS junk)
+.DS_Store
+Thumbs.db
