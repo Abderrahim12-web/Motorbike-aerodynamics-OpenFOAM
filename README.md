@@ -11,10 +11,11 @@ Plotted force coefficients over time.
 
 MAIN OUTPUT ANALYZED:
 
-Drag coefficient (Cd) — resistance to motion
-Lift coefficient (Cl) — vertical aerodynamic force
-Wake structure behind the motorbike
-Flow separation and turbulence effects
+Drag coefficient (Cd): resistance to motion.
+
+Lift coefficient (Cl): vertical aerodynamic force.
+Wake structure behind the motorbike.
+Flow separation and turbulence effects.
 
 AIM OF THE STUDY:
 
