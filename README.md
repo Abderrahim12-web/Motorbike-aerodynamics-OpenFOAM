@@ -26,8 +26,13 @@ To understand how the motorbike’s aerodynamic performance changes with operati
 SOLVERS AND TOOLS USED:
 
 blockMesh — create background computational domain.
+
 snappyHexMesh — generate body-fitted mesh around the motorbike.
+
 simpleFoam — steady-state incompressible turbulent flow solver.
+
 decomposePar / reconstructPar — parallel processing.
+
 ParaView — post-processing and visualization.
+
 forceCoeffs function — computation of aerodynamic coefficients.
